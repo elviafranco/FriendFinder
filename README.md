@@ -10,7 +10,7 @@ This application was created by Elvia Franco for UAGIL201905FSF2.
 https://dry-brook-53737.herokuapp.com/
 
 ## Motivation 
-This particular project is my first experience with building a full-stack application and I was motivated by the challenge to understand and apply how client-side requests relate to server-side responses. 
+This particular project was my first experience with building a full-stack application and I was motivated by the challenge to understand and apply how client-side requests relate to server-side responses. 
 
 ## Tech Used
 * Express.js
@@ -31,7 +31,7 @@ This particular project is my first experience with building a full-stack applic
 ![Go-to-Survey](https://drive.google.com/uc?export=view&id=1JiXkph66G7O8dVnISRuiU3A4IUw-PgVV)
 
 3. Click "Submit" once the survey questions are finalized and you'll be instantly matched with a new and compatible friend! 
-![Match](https://drive.google.com/uc?export=view&id=1a3TcNYElTasrWJZeaEwSr3Z730CfeS5o)
+![Match](https://drive.google.com/uc?export=view&id=1edBflesC-_z3Uc6zj-_x03P6yWoSO0hd)
 
 
 ### Step 2: API Friends List
