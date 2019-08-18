@@ -25,12 +25,15 @@ This particular project was my first experience with building a full-stack appli
 ### Step 1: Go to Survey + Take Survey 
 
 1. On the FriendFinder homepage select "Go to Survey" 
+
 ![Homepage](https://drive.google.com/uc?export=view&id=15XEUO-tv6RXSZLvyUcpKsSs_aq4-SgAe)
 
 2. On survey redirect, fill out name, photo link, and fill out 10 survey questions 
+
 ![Go-to-Survey](https://drive.google.com/uc?export=view&id=1JiXkph66G7O8dVnISRuiU3A4IUw-PgVV)
 
 3. Click "Submit" once the survey questions are finalized and you'll be instantly matched with a new and compatible friend! 
+
 ![Match](https://drive.google.com/uc?export=view&id=1R7yQYQiGNaLGxmrm8T0diU5VHmjSt_QP)
 
 
