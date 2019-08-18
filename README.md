@@ -31,7 +31,7 @@ This particular project was my first experience with building a full-stack appli
 ![Go-to-Survey](https://drive.google.com/uc?export=view&id=1JiXkph66G7O8dVnISRuiU3A4IUw-PgVV)
 
 3. Click "Submit" once the survey questions are finalized and you'll be instantly matched with a new and compatible friend! 
-![Match](https://drive.google.com/uc?export=view&id=1edBflesC-_z3Uc6zj-_x03P6yWoSO0hd)
+![Match](https://drive.google.com/uc?export=view&id=1R7yQYQiGNaLGxmrm8T0diU5VHmjSt_QP)
 
 
 ### Step 2: API Friends List
